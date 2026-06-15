@@ -277,8 +277,7 @@ tmdb-credits-analysis/
 ---
 
 ## License
-
-This project is for **educational and portfolio purposes**.  
+  
 Dataset is subject to [TMDB's Terms of Use](https://www.themoviedb.org/documentation/api/terms-of-use).
 
 ---
